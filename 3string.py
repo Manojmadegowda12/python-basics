@@ -1,4 +1,4 @@
-age = 24 
+age = 23
 name = "manu_12"
 Name = "shar"
 is_student = True
@@ -6,3 +6,5 @@ is_student = True
 print(age)
 print(Name)
 print(is_student)
+
+
