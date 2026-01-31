@@ -1,4 +1,4 @@
-age = 23
+age = 21
 name = "manu_12"
 Name = "shar"
 is_student = True
